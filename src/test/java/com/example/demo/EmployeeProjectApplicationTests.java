@@ -23,6 +23,7 @@ public class EmployeeProjectApplicationTests {
 	@Test
 	public void contextLoads() {
 		logger.info("test case executing");
+		logger.info("test second case executing");
 		assertEquals(true,true);
 	}
 
