@@ -17,7 +17,7 @@ import com.cg.EmployeeProjectApplication;
 @SpringBootTest
 public class EmployeeProjectApplicationTests {
 
-	public static Logger logger=LoggerFactory.getLogger(EmployeeProjectApplication.class);
+	public static Logger logger=LoggerFactory.getLogger(EmployeeProjectApplicationTests.class);
 	
 	
 	@Test
